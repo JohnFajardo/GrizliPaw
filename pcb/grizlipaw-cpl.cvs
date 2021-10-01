@@ -1,0 +1,8 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"G***";"footprint";1;"LOGO";;;
+2;"A1";"Brook_PS3PS4_PCBA";1;"Brook_PS3PS4_PCBA";;;
+3;"SW6,SW5,SW4,SW3,SW2,SW1";"SW_PUSH_6mm_H5mm";6;"SW_Push";;;
+4;"USB1";"HRO-TYPE-C-31-M-12-Assembly";1;"HRO-TYPE-C-31-M-12";;;
+5;"REF**,REF**,REF**,REF**,REF**,REF**,REF**";"MountingHole_6.4mm_M6";7;"MountingHole_5.2mm_M5";;;
+6;"R2,R1";"R_0805_2012Metric";2;"5.1k";;;
+7;"SW17,SW16,SW15,SW14,SW13,SW12,SW11,SW10,SW18,SW9,SW8,SW7";"Kailh_socket_PG1350_optional";12;"SW_Push";;;
