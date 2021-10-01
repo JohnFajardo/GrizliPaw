@@ -1,0 +1,4 @@
+Designator,Val,Package,Mid X,MidY,Rotation,Layer
+R1,5.1k,R_0805_2012Metric,160.5,-26,180,top
+R2,5.1k,R_0805_2012Metric,165.5,-26,0,top
+USB1,HRO-TYPE-C-31-M-12,HRO-TYPE-C-31-M-12-Assembly,163,-13.5,180,top
