@@ -2,6 +2,8 @@
 
 the final result so far:
 
+![GrizliPaw rev0.1 PCB render](images/GrizliPaw.png)
+
 
 # Acknoledgement
 **All the initial work is from jfedor** at https://github.com/jfedor2/flatbox. Without his work this project would not have been possible. 
